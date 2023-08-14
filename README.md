@@ -10,7 +10,7 @@ Benzene Board is basically a renewed version of the game Hexxagon, with a little
 *--No Copyright Infringement Intended--*
 
 ## Demo
-![](Demo\benzeneboarddemo.png)
+![Benzene Board Demo](https://github.com/FarzanaChowdhury/Benzene-Board/blob/main/Demo/benzeneboarddemo.png)
 
 The goal of the game is to increase the player's own color by occupying the cells. When the player selects a cell, it will have two options - the color will be copied to the adjacent cell, or it will jump to one cell away.
 
